@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Ankit Satpute! 👋<br>🚀 Computer Engineering Student | Full Stack Developer | Tech Enthusiast<br><br>🔭 Currently working on: Homogenie – a healthcare software (Python, Django, SQL) <br> 
-And Smart Expense Tracker(python,django).<br>👯 Looking to collaborate on: Web development & open-source projects.<br>🤝 Looking for help with: RESTful APIs & scalable applications.<br>🌱 Currently learning: Advanced backend development & cloud computing.<br>💬 Ask me about: Web development, hackathons, and building projects from scratch.<br>⚡ Fun fact: Love traveling, gaming, and competitive sports!<br><br>📫 Connect with me:<br>GitHub | LinkedIn
+And Smart Expense Tracker(python,django).<br>👯 Looking to collaborate on: Web development & open-source projects.<br>🤝 Looking for help with: RESTful APIs & scalable applications.<br>🌱 Currently learning: Advanced backend development & AiML.<br>💬 Ask me about: Web development, hackathons, and building projects from scratch.<br>⚡ Fun fact: Love traveling, gaming, and competitive sports!<br><br>📫 Connect with me:<br>GitHub | LinkedIn
 
 
 ## 🌐 Socials:
