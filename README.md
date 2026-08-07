@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ankit Satpute! 👋<br>🚀 Computer Engineering Student | Full Stack Developer | Tech Enthusiast<br><br>🔭 Currently Exploring:  Data Science and Data Engineering<br>👯 Looking to collaborate on: Web development & open-source projects.<br>🤝 Looking for help with: RESTful APIs & scalable applications.<br>💬 Ask me about: Web development, hackathons, and building projects from scratch.<br>⚡ Fun fact: Love traveling, gaming, and competitive sports!<br>
+Hi, I'm Ankit Satpute! 👋<br>🚀 Computer Engineering Student | Full Stack Developer | Tech Enthusiast<br><br>🔭 Currently Exploring:  Data analytics and Data Engineering<br>👯 Looking to collaborate on: Web development & open-source projects.<br>🤝 Looking for help with: RESTful APIs & scalable applications.<br>💬 Ask me about: Web development, hackathons, and building projects from scratch.<br>⚡ Fun fact: Love traveling, gaming, and competitive sports!<br>
 
 
 ## 🌐 Socials:
