@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi, I'm Ankit Satpute! 👋<br>🚀 Computer Engineering Student and 4x Hackathon Winner with full-stack experience. Skilled in software
+#💫 About Me:
+Hi, I'm Ankit Satpute! 👋<br>🚀Computer Engineering Student and 4x Hackathon Winner with full-stack experience.
+Skilled in software
 development and agile workflows, focused on building scalable, user-centric applications.<br>💬 Ask me about: Web development, hackathons, and building projects from scratch.<br>⚡ Fun fact: Love traveling, gaming, and competitive sports!<br>
 
 
